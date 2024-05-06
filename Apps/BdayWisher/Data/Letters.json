@@ -1,0 +1,13 @@
+{
+    "letter1":{
+        "body":"Hey [NAME],\nHappy birthday ! Have a wonderful time today and eat lots of cake !\nLots of Love,\n[SENDER]"
+    },
+     "letter2": {
+        "body":"Hey [NAME],\nHappy birthday ! Have a wonderful day ahead!\nLots of Love,\n[SENDER]"
+        },
+    "letter3": {
+        "body": "Hey [NAME],\nIt's your birthday! Have a blast!!\nLots of Love,\n[SENDER]"
+        }
+    }
+
+
